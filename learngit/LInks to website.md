@@ -1,0 +1,8 @@
+- https://github.com/git-guides/git-commit
+- https://www.git-tower.com/learn/git/commands/git-commit#:~:text=The%20%22commit%22%20command%20is%20used,just%20because%20it%20was%20changed.
+- https://www.bitdegree.org/learn/git-commit-command
+- https://devconnected.com/how-to-undo-git-add-command/
+- https://github.com/git-guides/git-status
+- https://gettinggit.com/learn/master-git-add
+- https://www.freecodecamp.org/news/git-diff-command/
+- https://github.com/joshnh/Git-Commands
